@@ -5,4 +5,5 @@ fixer_pak.egg-info/PKG-INFO
 fixer_pak.egg-info/SOURCES.txt
 fixer_pak.egg-info/dependency_links.txt
 fixer_pak.egg-info/not-zip-safe
+fixer_pak.egg-info/requires.txt
 fixer_pak.egg-info/top_level.txt
